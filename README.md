@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there I am Adi👋
 
-<!--
-**asingh49-cmd/asingh49-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love sharing my knowledge and experience, contribute to open source projects related to Data Science, and sharing statistical problems as code on this repository.
 
-Here are some ideas to get you started:
+My usual work duties are data analysis,building ML models to make the computers understand, predict, judge and make them smart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
+
+
+## About me:
+
+- 😄 I’m A Data Science Graduate student at University of Chicago
+- 💼 I have a Bachelor's degree in Statistics
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/colleenjung/), jshn2121@gmail.com
+- ⚡ Fun fact: I am a foodie. My Google map is pinned with verified restaurants
+- ⚡ Fun fact: My Google ID is 'minions_enthusiast'! bc it brings me back to my innocent childhood 
