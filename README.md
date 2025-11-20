@@ -14,7 +14,7 @@ I'm passionate about using data to tell stories and particularly enjoy working a
 
 - 😄 I’m a Applied Data Science Graduate student at the University of Chicago
 - 💼 I have a Bachelor's degree in Business with a concentration in Information Systems and Operations Management from the University of Washington
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/adipsingh/), adityapsingh1815@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adipsingh/), adityapsingh1815@gmail.com
 - 🤩 Tech Stack: Python, R, SQL, Snowflake, GCP (Cloud SQL, GCS), PyMC, Scikit-learn, Tableau, Git/GitHub
 - ⚡ Fun fact: I am a huge sports fan. Especially interested in Basketball, Soccer, Football, and Baseball
 
