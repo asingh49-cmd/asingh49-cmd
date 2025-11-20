@@ -12,7 +12,7 @@ I'm passionate about using data to tell stories and particularly enjoy working a
 
 ## About me:
 
-- 😄 I’m a Applied Data Science Graduate student at University of Chicago
+- 😄 I’m a Applied Data Science Graduate student at the University of Chicago
 - 💼 I have a Bachelor's degree in Business with a concentration in Information Systems and Operations Management from the University of Washington
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/adipsingh), adityapsingh1815@gmail.com
 - 🤩 Tech Stack: Python, R, SQL, Snowflake, GCP (Cloud SQL, GCS), PyMC, Scikit-learn, Tableau, Git/GitHub
