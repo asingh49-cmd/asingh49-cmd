@@ -12,7 +12,7 @@ I'm passionate about using data to tell stories and particularly enjoy working a
 - 🤩 Tech Stack: Python, R, SQL, Snowflake, GCP (Cloud SQL, GCS), PyMC, Scikit-learn, Tableau, Git/GitHub
 - ⚡ Fun fact: I am a huge sports fan. Especially interested in Basketball, Soccer, Football, and Baseball
 
-## 📚 What I'm Learning Now
+## What I'm Learning Now:
 - Bayesian statistics & hierarchical models  
 - Snowflake Snowpark & large-scale cloud pipelines  
 - dbt for analytics engineering  
