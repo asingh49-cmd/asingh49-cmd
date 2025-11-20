@@ -4,12 +4,6 @@ I'm a data scientist and analytics engineer focused on turning raw data into cle
 
 I'm passionate about using data to tell stories and particularly enjoy working at the intersection of data engineering, analytics, and business strategy.
 
-## 📚 What I'm Learning Now
-- Bayesian statistics & hierarchical models  
-- Snowflake Snowpark & large-scale cloud pipelines  
-- dbt for analytics engineering  
-- Time-series forecasting methods 
-
 ## About me:
 
 - 😄 I’m a Applied Data Science Graduate student at the University of Chicago
@@ -17,6 +11,12 @@ I'm passionate about using data to tell stories and particularly enjoy working a
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adipsingh/), adityapsingh1815@gmail.com
 - 🤩 Tech Stack: Python, R, SQL, Snowflake, GCP (Cloud SQL, GCS), PyMC, Scikit-learn, Tableau, Git/GitHub
 - ⚡ Fun fact: I am a huge sports fan. Especially interested in Basketball, Soccer, Football, and Baseball
+
+## 📚 What I'm Learning Now
+- Bayesian statistics & hierarchical models  
+- Snowflake Snowpark & large-scale cloud pipelines  
+- dbt for analytics engineering  
+- Time-series forecasting methods 
 
 Thanks for visiting my profile!  
 Feel free to explore my repositories or reach out if you'd like to collaborate.
