@@ -9,14 +9,8 @@ I'm passionate about using data to tell stories and particularly enjoy working a
 - 😄 I’m a Applied Data Science Graduate student at the University of Chicago
 - 💼 I have a Bachelor's degree in Business with a concentration in Information Systems and Operations Management from the University of Washington
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adipsingh/), adityapsingh1815@gmail.com
-- 🤩 Tech Stack: Python, R, SQL, Snowflake, GCP (Cloud SQL, GCS), PyMC, Scikit-learn, Tableau, Git/GitHub
+- 🤩 Tech Stack: Python (Pandas, Numpy, Sklearn, PyTorch), R, SQL, Snowflake, GCP (Cloud SQL, GCS), PyMC, Tableau, Git
 - ⚡ Fun fact: I am a huge sports fan. Especially interested in Basketball, Soccer, Football, and Baseball
-
-## What I'm Learning Now:
-- Bayesian statistics & hierarchical models  
-- Snowflake Snowpark & large-scale cloud pipelines  
-- dbt for analytics engineering  
-- Time-series forecasting methods 
 
 Thanks for visiting my profile!  
 Feel free to explore my repositories or reach out if you'd like to collaborate.
